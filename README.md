@@ -1,4 +1,4 @@
-## Amazon web scraping
+# Amazon web scraping
 
  I'm pleased to share my latest mini project—a robust Amazon Data Scraper built with Python. This project not only automates the extraction of product details such as titles, prices, ratings, review counts, and availability from Amazon but also showcases my capabilities in web scraping and data processing.
 
@@ -9,7 +9,7 @@ Technology Stack:
 • BeautifulSoup & Requests for web scraping
 • Pandas & NumPy for data manipulation and cleaning
 
-# Project Workflow:
+## Project Workflow:
 
 Data Extraction: Automated retrieval of product details from Amazon pages.
 
@@ -19,7 +19,7 @@ Data Cleaning: Utilizing Pandas to handle missing values and structure the data.
 
 Output: Generating a clean CSV file ready for analysis.
 
-# Learning Outcomes:
+## Learning Outcomes:
 
 • Enhanced expertise in parsing complex HTML structures.
 • Improved skills in automating data collection and handling real-world datasets.
